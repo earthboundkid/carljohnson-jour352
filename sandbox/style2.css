@@ -1,4 +1,13 @@
+h1 {
+    font-family: Lobster, sans-serif;
+    font-size: 72px;
+}
+
 p {
     font-size: 32px;
     color:green;
+}
+
+div {
+    color: red;
 }
